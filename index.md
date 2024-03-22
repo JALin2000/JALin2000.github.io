@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a master student in Robotics, Systems and Control program in ETH Zürich, and I previously finished my bachelor study in Beihang University. My research interests include system control and machine learning. In my leisure time, I like working out, travelling by driving, and swimming.
+Hi! I am a master student in Robotics, Systems and Control program in ETH Zürich, and I previously finished my bachelor study in Beihang University. My research interests include system control and machine learning. In my leisure time, I like working out, travelling by driving, swimming and singing.
 
 ## Research Interests
 
@@ -14,7 +14,7 @@ Hi! I am a master student in Robotics, Systems and Control program in ETH Züric
 ## News
 
 - **[Apr. 2024]** I start my semester project about the policy optimization of model predictive control in IfA in ETH Zürich!
-- **[Sep. 2023]** I start working as a 3D mapping internship in ABB Schweiz!
+- **[Oct. 2023]** I start my 6-month internship as a 3D mapping intern in ABB Schweiz!
 - **[Sep. 2023]** Our paper about skeletal action recognition is submitted to arXiv.
 - **[Aug. 2023]** Our paper about predicting the coastal water quality is accepted by Journal of Marine Science and Engineering.
 
