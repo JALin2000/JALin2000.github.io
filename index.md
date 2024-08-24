@@ -13,7 +13,7 @@ Hi! I am a master student in Robotics, Systems and Control program in ETH Züric
 
 ## News
 
-- **[Aug. 2024]** My internship paper "Enhancing Port Automation: A Novel Object Detection Pipeline for Container Ship Bays" is accepted by 2024 IEEE Sensors Conference! Thanks for those who help and guide me through the way!
+- **[Aug. 2024]** My internship paper "Enhancing Port Automation: A Novel Object Detection Pipeline for Container Ship Bays" is accepted by 2024 IEEE Sensors Conference! Thanks for those who helped and guided me through the way!
 - **[Apr. 2024]** I start my semester project about the policy optimization of model predictive control in IfA in ETH Zürich!
 - **[Oct. 2023]** I start my 6-month internship as a 3D mapping intern in ABB Schweiz!
 - **[Sep. 2023]** Our paper about skeletal action recognition is submitted to arXiv.
