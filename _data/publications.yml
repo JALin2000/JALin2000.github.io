@@ -5,7 +5,7 @@ main:
     image: ./assets/img/teaser_sensors.png
     conference_short: IEEE Sensors
     conference: IEEE Sensors Conference, 2024.
-    notes: not released yet
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10784915
 
   - title: "CaSAR: Contact-aware Skeletal Action Recognition"
     authors: <strong>Junan Lin</strong>, <strong>Zhichao Sun</strong>, <strong>Enjie Cao</strong>, Taein Kwon, Mahdi Rad, Marc Pollefeys
