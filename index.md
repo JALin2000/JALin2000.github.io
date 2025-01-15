@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a master student in Robotics, Systems and Control program in ETH Zürich, and I previously finished my bachelor study in Beihang University. My main research interest is to incorporate machine learning techniques in model-based control schemes to make them more adaptive, secure, and computationally efficient. Now I am working on my master thesis, which focuses on approximating infinite horizon optimal control with short-horizon MPC in an efficient way by learning from given infinite horizon optimal control for other states, and I really like this topic! In my leisure time, I like working out, travelling by driving, swimming and singing.
+Hi! I am a master student in Robotics, Systems and Control program in ETH Zürich, and I previously finished my bachelor study in Beihang University.
+
+My main research interest is to incorporate **machine learning** techniques in **model-based control schemes** to make them more adaptive, secure, and computationally efficient. Now I am working on my master thesis, which focuses on approximating infinite horizon optimal control with short-horizon MPC in an efficient way, and I really like this topic! 
+
+In my leisure time, I like working out, travelling by driving, swimming and singing.
 
 ## Research Interests
 
