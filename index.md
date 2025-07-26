@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a master student in Robotics, Systems and Control program in ETH Zürich, and I previously finished my bachelor study in Beihang University.
+Hi! I am Junan, who is going to be a PhD student in October 2025 under the supervision of [Prof. Luca Furieri](https://www.lucafurieri.it/) in the University of Oxford. I previously finished my master study in Robotics, Systems and Control program in ETH Zürich in 2025, and my bachelor study in Beihang University in 2022.
 
-My main research interest is to incorporate **machine learning** techniques in **model-based control schemes** to make them more adaptive, secure, and computationally efficient. Now I am working on my master thesis, which focuses on approximating infinite horizon optimal control with short-horizon MPC in an efficient way, and I really like this topic! 
+My main research interest is to incorporate **machine learning** techniques in **control schemes** to make them more adaptive, secure, and computationally efficient. My master thesis focused on efficiently learning value functions for constrained LQR using differentiable optimization.
 
-In my leisure time, I like working out, travelling by driving, swimming and singing.
+In my leisure time, I like travelling by driving (already driven more than 10,000 km), bouldering, swimming and singing.
 
 ## Research Interests
 
@@ -16,13 +16,10 @@ In my leisure time, I like working out, travelling by driving, swimming and sing
 - **Applied Machine Learning:** object detection, action recognition, time series forecasting
 
 ## News
-
-- **[Oct. 2024]** I continue to do my master thesis titled "Optimality and Limitations of Policy Optimization for MPC" in IfA in ETH Zürich!
+- **[May. 2025]** I start another part-time internship in ABB Schweiz! This time I focus on reinforcement learning for automatic operation on container ship.
+- **[May. 2025]** I finish my master thesis titled "Data-Driven Terminal Cost Approximation for Short-Horizon Linear Quadratic MPC" in IfA in ETH Zürich, and obtain my master's degree! A big thank you to Dr. Efe Balta, Riccardo Zuliani and Prof. John Lygeros for their generous guidance along my project!
 - **[Aug. 2024]** My internship paper "Enhancing Port Automation: A Novel Object Detection Pipeline for Container Ship Bays" is accepted by 2024 IEEE Sensors Conference! Thanks for those who helped and guided me through the way!
-- **[Apr. 2024]** I start my semester project about adaptive control for temperature stabilization of selective laser melting in IfA in ETH Zürich!
 - **[Oct. 2023]** I start my 6-month internship as a 3D mapping intern in ABB Schweiz!
-- **[Sep. 2023]** Our paper about skeletal action recognition is submitted to arXiv.
-- **[Aug. 2023]** Our paper about predicting the coastal water quality is accepted by Journal of Marine Science and Engineering.
 
 {% include_relative _includes/publications.md %}
 
