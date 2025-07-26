@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
-body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif; color: #595959; font-weight: 400; margin: 0; }
+body { background-color: #fff; padding: 0px; font: 18.0px/1.5 Crimson Pro, serif; color: #595959; font-weight: 400; margin: 0; }
 
 .pub-row { display: flex; align-items: center; }
 
@@ -166,7 +166,7 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
   .image.avatar img { border-radius: 100%; width: 95px; padding: 20px; }
   #head1o2 { visibility: hidden; }
   #head2o2 { visibility: hidden; } }
-@media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
+@media print { body { padding: 0.4in; font-size: 14pt; color: #444; } }
 .biblink { text-decoration: none; display: inline; margin-right: 0px; }
 
 .fakelink { text-decoration: none; cursor: pointer; }
