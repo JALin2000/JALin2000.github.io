@@ -9,7 +9,6 @@ Hi! I am Junan, a PhD student under the supervision of [Prof. Paul Goulart](http
 My main research interest is to incorporate **machine learning** techniques in **control schemes** to make them more adaptive, secure, and computationally efficient. My master thesis focused on efficiently learning value functions for constrained LQR using differentiable optimization.
 
 In my leisure time, I like travelling by driving (have already driven more than 12,000 km), swimming and singing.
-In my leisure time, I like travelling by driving (have already driven more than 12,000 km), swimming and singing.
 
 ## Research Interests
 
