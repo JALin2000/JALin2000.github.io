@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am Junan, a PhD student under the supervision of [Prof. Paul Goulart](https://users.ox.ac.uk/~engs1373/) and [Prof. Luca Furieri](https://www.lucafurieri.it/) in the University of Oxford. I previously finished my master study in Robotics, Systems and Control program in ETH Zürich in 2025, and my bachelor study in Beihang University in 2022.
+Hi! I am Junan, a PhD student under the supervision of [Prof. Luca Furieri](https://www.lucafurieri.it/) and [Prof. Paul Goulart](https://users.ox.ac.uk/~engs1373/) in the University of Oxford. I previously finished my master study in Robotics, Systems and Control program in ETH Zürich in 2025, and my bachelor study in Beihang University in 2022.
 
 My main research interest is to incorporate **machine learning** techniques in **control schemes** to make them more adaptive, secure, and computationally efficient. For example, my master thesis focused on efficiently learning value functions for constrained LQR using differentiable optimization.
 
