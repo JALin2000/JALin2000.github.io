@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am Junan, a PhD student under the supervision of [Prof. Luca Furieri](https://www.lucafurieri.it/) and [Prof. Paul Goulart](https://users.ox.ac.uk/~engs1373/) in the University of Oxford. I previously finished my master study in Robotics, Systems and Control program in ETH Zürich in 2025, and my bachelor study in Beihang University in 2022.
 
-My research lies at the intersection of **machine learning**, **optimization**, and **control**, with a current focus on learning-to-optimize methods for structured convex optimization solvers. My recent preprint, “Learning Over-Relaxation Policies for ADMM with Convergence Guarantees,” studies how to learn adaptive relaxation policies for ADMM to accelerate repeated quadratic-program solves while preserving convergence guarantees and avoiding the refactorization cost of penalty updates.
+My research lies at the intersection of **machine learning**, **optimization**, and **control**, with a current focus on learning-to-optimize methods for structured convex optimization solvers. My recent preprint, [Learning Over-Relaxation Policies for ADMM with Convergence Guarantees](https://arxiv.org/abs/2604.26932), studies how to learn adaptive relaxation policies for ADMM to accelerate repeated quadratic-program solves while preserving convergence guarantees and avoiding the refactorization cost of penalty updates.
 
 In my leisure time, I like travelling by driving (have already driven more than 15,000 km), swimming and singing.
 
