@@ -1,21 +1,13 @@
 main:
 
+  - title: "Learning Over-Relaxation Policies for ADMM with Convergence Guarantees"
+    authors: <strong>Junan Lin</strong>, Paul J. Goulart, Luca Furieri
+    pdf: https://arxiv.org/pdf/2604.26932
+    notes: arXiv preprint
+     
   - title: "Enhancing Port Automation: A Novel Object Detection Pipeline for Container Ship Bays"
     authors: <strong>Junan Lin</strong>, Stefano Marano, Bruno Arsenali, Josip Marjanovic, Niklas Sundholm, Elin Jirskog, Deran Maas* (*Corresponding author)
     image: ./assets/img/teaser_sensors.png
     conference_short: IEEE Sensors
     conference: IEEE Sensors Conference, 2024.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10784915
-
-  - title: "CaSAR: Contact-aware Skeletal Action Recognition"
-    authors: <strong>Junan Lin</strong>, <strong>Zhichao Sun</strong>, <strong>Enjie Cao</strong>, Taein Kwon, Mahdi Rad, Marc Pollefeys
-    pdf: https://arxiv.org/pdf/2309.10001.pdf
-    image: ./assets/img/teaser_CaSAR.jpg
-    notes: arXiv preprint
-
-  - title: Temporal Prediction of Coastal Water Quality Based on Environmental Factors with Machine Learning
-    authors: <strong>Junan Lin</strong>, Qianqian Liu*, Yang Song, Jiting Liu, Yixue Yin, Nathan S. Hall (*Corresponding author)
-    conference_short: JMSE
-    conference: Journal of Marine Science and Engineering, 2023.
-    pdf: https://www.mdpi.com/2077-1312/11/8/1608
-    image: ./assets/img/teaser_JMSE.jpg
