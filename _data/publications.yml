@@ -7,7 +7,7 @@ main:
      
   - title: "Enhancing Port Automation: A Novel Object Detection Pipeline for Container Ship Bays"
     authors: <strong>Junan Lin</strong>, Stefano Marano, Bruno Arsenali, Josip Marjanovic, Niklas Sundholm, Elin Jirskog, Deran Maas* (*Corresponding author)
-    image: ./assets/img/teaser_sensors.png
+    # image: ./assets/img/teaser_sensors.png
     conference_short: IEEE Sensors
     conference: IEEE Sensors Conference, 2024.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10784915
