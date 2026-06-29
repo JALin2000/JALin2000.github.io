@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap publication-scholar-note">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+<div class="publication-list">
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign category_posts = site.publications | where: "category", category[0] | sort: "date" | reverse %}
+    {% if category_posts.size > 0 %}
+      <h2 class="publication-category-title">{{ category[1].title }}</h2>
+      {% for post in category_posts %}
+        {% include publication-card.html publication=post %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% assign publication_posts = site.publications | sort: "date" | reverse %}
+  {% for post in publication_posts %}
+    {% include publication-card.html publication=post %}
+  {% endfor %}
+{% endif %}
+</div>

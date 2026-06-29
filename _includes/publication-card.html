@@ -1,0 +1,39 @@
+{% assign publication = include.publication %}
+{% assign abstract_id = publication.title | slugify | prepend: "abstract-" %}
+
+<div class="publication-entry">
+  <div class="publication-title">{{ publication.title }}</div>
+
+  {% if publication.authors %}
+    <div class="publication-authors">{{ publication.authors }}</div>
+  {% endif %}
+
+  {% if publication.venue or publication.date %}
+    <div class="publication-venue">
+      {% if publication.venue %}<em>{{ publication.venue }}</em>{% endif %}{% if publication.date %}, {{ publication.date | date: "%Y" }}{% endif %}.
+    </div>
+  {% endif %}
+
+  <div class="publication-actions">
+    {% if publication.paperurl %}
+      <a class="publication-button publication-button-download" href="{{ publication.paperurl }}">Download</a>
+    {% endif %}
+
+    <button
+      class="publication-button publication-button-abstract"
+      type="button"
+      aria-expanded="false"
+      aria-controls="{{ abstract_id }}"
+      onclick="const target = document.getElementById('{{ abstract_id }}'); const shouldShow = target.hasAttribute('hidden'); target.toggleAttribute('hidden'); this.setAttribute('aria-expanded', shouldShow ? 'true' : 'false');">
+      Abstract
+    </button>
+  </div>
+
+  <div class="publication-abstract-content" id="{{ abstract_id }}" hidden>
+    {% if publication.abstract %}
+      {{ publication.abstract | markdownify }}
+    {% else %}
+      {{ publication.content }}
+    {% endif %}
+  </div>
+</div>

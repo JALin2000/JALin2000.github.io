@@ -1,0 +1,35 @@
+.teaching-entry {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5em;
+  margin: 0 0 1.15em;
+  line-height: 1.35;
+}
+
+.teaching-entry__main {
+  display: flex;
+  flex-direction: column;
+}
+
+.teaching-entry__description {
+  color: var(--global-text-color-light);
+  font-weight: 600;
+}
+
+.teaching-entry__term {
+  flex: 0 0 auto;
+  color: var(--global-text-color);
+  text-align: right;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .teaching-entry {
+    display: block;
+  }
+
+  .teaching-entry__term {
+    margin-top: 0.15em;
+    text-align: left;
+  }
+}

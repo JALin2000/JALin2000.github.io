@@ -1,0 +1,75 @@
+.publication-scholar-note {
+  margin-bottom: 1.5em;
+}
+
+.publication-list {
+  margin-top: 1.5em;
+  font-size: 1em;
+}
+
+.publication-category-title {
+  margin-top: 1.75em;
+  margin-bottom: 1em;
+  padding-bottom: 0.45em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.publication-entry {
+  margin-bottom: 2.2em;
+  font-size: 1em;
+}
+
+.publication-title {
+  margin-bottom: 0.25em;
+  color: var(--global-text-color);
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.publication-authors,
+.publication-venue {
+  margin-bottom: 0.15em;
+  line-height: 1.45;
+}
+
+.publication-actions {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.45em;
+  margin-top: 0.65em;
+}
+
+.publication-button {
+  display: inline-block;
+  padding: 0.38em 0.72em;
+  border: 0;
+  border-radius: 5px;
+  color: #fff !important;
+  font-family: $sans-serif;
+  font-size: 0.82em;
+  line-height: 1.2;
+  text-decoration: none !important;
+  cursor: pointer;
+}
+
+.publication-button-download {
+  background-color: #008cba;
+}
+
+.publication-button-abstract {
+  background-color: #7b241c;
+}
+
+.publication-abstract-content {
+  margin-top: 0.75em;
+  padding: 0.75em 0.9em;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #7b241c;
+  text-align: justify;
+}
+
+.publication-abstract-content p:last-child {
+  margin-bottom: 0;
+}
