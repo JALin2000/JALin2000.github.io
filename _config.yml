@@ -31,7 +31,7 @@ author:
   employer         : # "University of Oxford"
   uri              : # URL
   email            : "junan.lin(at)eng.ox.ac.uk" 
-  cv               : "/files/curriculum_vitae.pdf"
+  cv               : # "/files/curriculum_vitae.pdf"
 
   # Academic websites
   academia         : # URL
@@ -168,6 +168,7 @@ include:
   - _pages
   - files
 exclude:
+  - files/curriculum_vitae.pdf
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
